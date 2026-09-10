@@ -189,7 +189,9 @@ export const teamMembers: TeamMember[] = [
   { name: "Felix Möllmann",  team: "Community & Recruitment", teamLead: false, president: false, city: "munich" },
 
   // ── Munich – Partnerships ──────────────────────────────────────────────
-  { name: "Viktoria Klein",     team: "Partnerships", teamLead: false, president: false, city: "munich" },
+  { name: "Viktoria Klein",     team: "Partnerships", teamLead: false, president: false, city: "munich",
+    linkedIn: "https://www.linkedin.com/in/viktoria-klein-02a94524b/",
+    photo: "/images/team/viktoria-klein.png" },
   { name: "Maren Schreiber",    team: "Partnerships", teamLead: false, president: false, city: "munich", formerMember: true },
   { name: "Paul Herr",          team: "Partnerships", teamLead: false, president: false, city: "munich" },
   { name: "Laura Niedermeier",  team: "Partnerships", teamLead: false, president: false, city: "munich",
